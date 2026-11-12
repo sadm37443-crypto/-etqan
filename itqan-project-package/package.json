@@ -1,0 +1,14 @@
+{
+  "name": "itqan-global",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "npm@10.9.9",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "mysql2": "^3.24.6"
+  }
+}
